@@ -1,0 +1,86 @@
+{
+  "propertyType": [
+    "House",
+    "Apartment",
+    "Townhouse",
+    "Plot",
+    "Farm",
+    "Commercial Building",
+    "Industrial"
+  ],
+  "advertType": [
+    "For Sale",
+    "To Rent"
+  ],
+  "province": [
+    "Eeastern  Cape",
+    "Free State",
+    "Kwazulu-Natal",
+    "Gauteng",
+    "Limpopo",
+    "Mpumalanga",
+    "North-West",
+    "Western Cape"
+  ],
+  "stats": {
+    "Count": [
+      {"stat": "bedrooms", "label":  "Bedrooms"},
+      {"stat": "bathrooms", "label":  "Bathrooms"},
+      {"stat": "lounges", "label":  "Lounges"},
+      {"stat": "kitchen", "label":  "Kitchens"},
+      {"stat": "garage", "label":  "Garages"},
+      {"stat": "parkings", "label":  "Parkings"}
+    ],
+    "Has": [
+      "access_gate",
+      "alarm_system",
+      "electric_fencing",
+      "entrance_hall",
+      "extra_storage",
+      "fibre_internet",
+      "flatlet",
+      "garden",
+      "guard_house",
+      "guest_toilet",
+      "intercom",
+      "lapa",
+      "laundry",
+      "no_pets_allowed",
+      "patio",
+      "patrols",
+      "pet_friendly",
+      "pool",
+      "scullery",
+      "sea_view",
+      "staff quarters"
+    ],
+    "Size": [
+      "erf_size",
+      "floor_area"
+    ]
+  },
+  "filterStats": {
+    "Count": [
+      "bedrooms",
+      "bathrooms",
+      "garage"
+    ],
+    "Has": [
+      "pool",
+      "patio",
+      "storage",
+      "laundry",
+      "scullery",
+      "guest_toilet",
+      "entrance_hall",
+      "alarm",
+      "access_gate",
+      "electric_fencing",
+      "intercom",
+      "guard_house",
+      "pet_friendly",
+      "sea_view",
+      "flatlet"
+    ]
+  }
+}

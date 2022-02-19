@@ -1,0 +1,416 @@
+[
+  {
+    "id": 1,
+    "propertyType": "House",
+    "title": "3 Bed Apartment in Green Point",
+    "location": {
+      "province": "Western Cape",
+      "city": "Cape Town",
+      "suburb": "Green Point",
+      "geo": {
+        "lon": 32,
+        "lat": 27
+      }
+    },
+    "rooms": {
+      "bed": 3,
+      "bath": 2,
+      "study": 1,
+      "lounge": 1
+    },
+    "size": {
+      "floor": 135
+    },
+    "charges": {
+      "price": 6950000,
+      "levy": 3380
+    },
+    "description": "Brand new middle floor apartment in a secure modern boutique block of 3 units. Open plan living and dining area with an office alcove. Kitchen with gas hob, electric oven and dishwasher point. Separate laundry area (washing machine and tumble dryer). Three bedrooms, main en suite (shower and bath) and a second bathroom (shower). Small balconies off the living area at the front and off all bedrooms at the back. Air conditioning throughout and underfloor heating. Wooden floors in the bedrooms. Alarm system, security cameras and access control, DSTV and fibre ready. Two parking bays.",
+    "features": [
+      {
+        "label": "Storeys",
+        "value": 1
+      },
+      {
+        "label": "Access Gate",
+        "value": "y"
+      },
+      {
+        "label": "Air Con",
+        "value": "y"
+      },
+      {
+        "label": "Alarm",
+        "value": "y"
+      },
+      {
+        "label": "Balcony",
+        "value": "y"
+      },
+      {
+        "label": "BIC",
+        "value": "y"
+      },
+      {
+        "label": "Electric Fencing",
+        "value": "y"
+      },
+      {
+        "label": "Intercom",
+        "value": "y"
+      },
+      {
+        "label": "Kitchen",
+        "value": "y"
+      },
+      {
+        "label": "Pet Friendly",
+        "value": "y"
+      },
+      {
+        "label": "Scenic View",
+        "value": "y"
+      }
+    ],
+    "videoUrl": "https://youtu.be/P4gX-7vjh1w",
+    "gallery": [
+      {
+        "src": "https://prppublicstore.blob.core.windows.net/live-za-images/property/1419/28/7157419/images/property-7157419-84758165_dhd.jpg"
+      },
+      {
+        "src": "https://prppublicstore.blob.core.windows.net/live-za-images/property/1419/28/7157419/images/property-7157419-84758165_dhd.jpg"
+      },
+      {
+        "src": "https://prppublicstore.blob.core.windows.net/live-za-images/property/1419/28/7157419/images/property-7157419-84758165_dhd.jpg"
+      },
+      {
+        "src": "https://prppublicstore.blob.core.windows.net/live-za-images/property/1419/28/7157419/images/property-7157419-84758165_dhd.jpg"
+      },
+      {
+        "src": "https://prppublicstore.blob.core.windows.net/live-za-images/property/1419/28/7157419/images/property-7157419-84758165_dhd.jpg"
+      }
+
+    ]
+  },
+  {
+    "id": 2,
+    "propertyType": "House",
+    "title": "3 Bed Apartment in Green Point",
+    "location": {
+      "province": "Western Cape",
+      "city": "Cape Town",
+      "suburb": "Green Point",
+      "geo": {
+        "lon": 32,
+        "lat": 27
+      }
+    },
+    "rooms": {
+      "bed": 3,
+      "bath": 2,
+      "study": 1,
+      "lounge": 1
+    },
+    "size": {
+      "floor": 135
+    },
+    "charges": {
+      "price": 6950000,
+      "levy": 3380
+    },
+    "description": "Brand new middle floor apartment in a secure modern boutique block of 3 units. Open plan living and dining area with an office alcove. Kitchen with gas hob, electric oven and dishwasher point. Separate laundry area (washing machine and tumble dryer). Three bedrooms, main en suite (shower and bath) and a second bathroom (shower). Small balconies off the living area at the front and off all bedrooms at the back. Air conditioning throughout and underfloor heating. Wooden floors in the bedrooms. Alarm system, security cameras and access control, DSTV and fibre ready. Two parking bays.",
+    "features": [
+      {
+        "label": "Storeys",
+        "value": 1
+      },
+      {
+        "label": "Access Gate",
+        "value": "y"
+      },
+      {
+        "label": "Air Con",
+        "value": "y"
+      },
+      {
+        "label": "Alarm",
+        "value": "y"
+      },
+      {
+        "label": "Balcony",
+        "value": "y"
+      },
+      {
+        "label": "BIC",
+        "value": "y"
+      },
+      {
+        "label": "Electric Fencing",
+        "value": "y"
+      },
+      {
+        "label": "Intercom",
+        "value": "y"
+      },
+      {
+        "label": "Kitchen",
+        "value": "y"
+      },
+      {
+        "label": "Pet Friendly",
+        "value": "y"
+      },
+      {
+        "label": "Scenic View",
+        "value": "y"
+      }
+    ],
+    "videoUrl": "https://youtu.be/P4gX-7vjh1w",
+    "gallery": [
+      {
+        "src": "https://prppublicstore.blob.core.windows.net/live-za-images/property/1419/28/7157419/images/property-7157419-84758165_dhd.jpg"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "propertyType": "House",
+    "title": "3 Bed Apartment in Green Point",
+    "location": {
+      "province": "Western Cape",
+      "city": "Cape Town",
+      "suburb": "Green Point",
+      "geo": {
+        "lon": 32,
+        "lat": 27
+      }
+    },
+    "rooms": {
+      "bed": 3,
+      "bath": 2,
+      "study": 1,
+      "lounge": 1
+    },
+    "size": {
+      "floor": 135
+    },
+    "charges": {
+      "price": 6950000,
+      "levy": 3380
+    },
+    "description": "Brand new middle floor apartment in a secure modern boutique block of 3 units. Open plan living and dining area with an office alcove. Kitchen with gas hob, electric oven and dishwasher point. Separate laundry area (washing machine and tumble dryer). Three bedrooms, main en suite (shower and bath) and a second bathroom (shower). Small balconies off the living area at the front and off all bedrooms at the back. Air conditioning throughout and underfloor heating. Wooden floors in the bedrooms. Alarm system, security cameras and access control, DSTV and fibre ready. Two parking bays.",
+    "features": [
+      {
+        "label": "Storeys",
+        "value": 1
+      },
+      {
+        "label": "Access Gate",
+        "value": "y"
+      },
+      {
+        "label": "Air Con",
+        "value": "y"
+      },
+      {
+        "label": "Alarm",
+        "value": "y"
+      },
+      {
+        "label": "Balcony",
+        "value": "y"
+      },
+      {
+        "label": "BIC",
+        "value": "y"
+      },
+      {
+        "label": "Electric Fencing",
+        "value": "y"
+      },
+      {
+        "label": "Intercom",
+        "value": "y"
+      },
+      {
+        "label": "Kitchen",
+        "value": "y"
+      },
+      {
+        "label": "Pet Friendly",
+        "value": "y"
+      },
+      {
+        "label": "Scenic View",
+        "value": "y"
+      }
+    ],
+    "videoUrl": "https://youtu.be/P4gX-7vjh1w",
+    "gallery": [
+      {
+        "src": "https://prppublicstore.blob.core.windows.net/live-za-images/property/1419/28/7157419/images/property-7157419-84758165_dhd.jpg"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "propertyType": "House",
+    "title": "3 Bed Apartment in Green Point",
+    "location": {
+      "province": "Western Cape",
+      "city": "Cape Town",
+      "suburb": "Green Point",
+      "geo": {
+        "lon": 32,
+        "lat": 27
+      }
+    },
+    "rooms": {
+      "bed": 3,
+      "bath": 2,
+      "study": 1,
+      "lounge": 1
+    },
+    "size": {
+      "floor": 135
+    },
+    "charges": {
+      "price": 6950000,
+      "levy": 3380
+    },
+    "description": "Brand new middle floor apartment in a secure modern boutique block of 3 units. Open plan living and dining area with an office alcove. Kitchen with gas hob, electric oven and dishwasher point. Separate laundry area (washing machine and tumble dryer). Three bedrooms, main en suite (shower and bath) and a second bathroom (shower). Small balconies off the living area at the front and off all bedrooms at the back. Air conditioning throughout and underfloor heating. Wooden floors in the bedrooms. Alarm system, security cameras and access control, DSTV and fibre ready. Two parking bays.",
+    "features": [
+      {
+        "label": "Storeys",
+        "value": 1
+      },
+      {
+        "label": "Access Gate",
+        "value": "y"
+      },
+      {
+        "label": "Air Con",
+        "value": "y"
+      },
+      {
+        "label": "Alarm",
+        "value": "y"
+      },
+      {
+        "label": "Balcony",
+        "value": "y"
+      },
+      {
+        "label": "BIC",
+        "value": "y"
+      },
+      {
+        "label": "Electric Fencing",
+        "value": "y"
+      },
+      {
+        "label": "Intercom",
+        "value": "y"
+      },
+      {
+        "label": "Kitchen",
+        "value": "y"
+      },
+      {
+        "label": "Pet Friendly",
+        "value": "y"
+      },
+      {
+        "label": "Scenic View",
+        "value": "y"
+      }
+    ],
+    "videoUrl": "https://youtu.be/P4gX-7vjh1w",
+    "gallery": [
+      {
+        "src": "https://prppublicstore.blob.core.windows.net/live-za-images/property/1419/28/7157419/images/property-7157419-84758165_dhd.jpg"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "propertyType": "House",
+    "title": "3 Bed Apartment in Green Point",
+    "location": {
+      "province": "Western Cape",
+      "city": "Cape Town",
+      "suburb": "Green Point",
+      "geo": {
+        "lon": 32,
+        "lat": 27
+      }
+    },
+    "rooms": {
+      "bed": 3,
+      "bath": 2,
+      "study": 1,
+      "lounge": 1,
+      "garage": 1
+    },
+    "size": {
+      "floor": 135
+    },
+    "charges": {
+      "price": 6950000,
+      "levy": 3380
+    },
+    "description": "Brand new middle floor apartment in a secure modern boutique block of 3 units. Open plan living and dining area with an office alcove. Kitchen with gas hob, electric oven and dishwasher point. Separate laundry area (washing machine and tumble dryer). Three bedrooms, main en suite (shower and bath) and a second bathroom (shower). Small balconies off the living area at the front and off all bedrooms at the back. Air conditioning throughout and underfloor heating. Wooden floors in the bedrooms. Alarm system, security cameras and access control, DSTV and fibre ready. Two parking bays.",
+    "features": [
+      {
+        "label": "Storeys",
+        "value": 1
+      },
+      {
+        "label": "Access Gate",
+        "value": "y"
+      },
+      {
+        "label": "Air Con",
+        "value": "y"
+      },
+      {
+        "label": "Alarm",
+        "value": "y"
+      },
+      {
+        "label": "Balcony",
+        "value": "y"
+      },
+      {
+        "label": "BIC",
+        "value": "y"
+      },
+      {
+        "label": "Electric Fencing",
+        "value": "y"
+      },
+      {
+        "label": "Intercom",
+        "value": "y"
+      },
+      {
+        "label": "Kitchen",
+        "value": "y"
+      },
+      {
+        "label": "Pet Friendly",
+        "value": "y"
+      },
+      {
+        "label": "Scenic View",
+        "value": "y"
+      }
+    ],
+    "videoUrl": "https://youtu.be/P4gX-7vjh1w",
+    "gallery": [
+      {
+        "src": "https://prppublicstore.blob.core.windows.net/live-za-images/property/1419/28/7157419/images/property-7157419-84758165_dhd.jpg"
+      }
+    ]
+  }
+]
